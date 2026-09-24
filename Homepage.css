@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: #f2e8d8;
+  }
+
+  .logo1-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px 30px;
+
+  }
+
+  .center-heading{
+  text-align: center;
+   padding: 0px 0px 30px;
+   color: rgb(97, 66, 32);
+  }
+
+  .menu-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 30px 0px;
+  }
+
+  .my-btn-menuprice{
+    cursor: pointer;
+    background-color: rgb(144, 108, 69);
+    color: white;
+    justify-content: center;
+    padding: 10px 137px;
+    box-shadow: 2px 5px 8px 2px #c1bbb1 ;
+    font-size: 17px;
+    font-family: sans-serif;
+
+  }
+  .my-btn-menuprice:hover{
+    background-color: #a98b5b;
+}
+
+  .drink-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 30px 0px;
+  }
+
+  .my-btn-drink{
+    cursor: pointer;
+    background-color: rgb(144, 108, 69);
+    color: white;
+    justify-content: center;
+    padding: 10px 100px;
+    box-shadow: 2px 5px 8px 2px #c1bbb1 ;
+    font-size: 17px;
+    font-family: sans-serif;
+  }
+
+  .my-btn-drink:hover{
+    background-color: #a98b5b;
+}
